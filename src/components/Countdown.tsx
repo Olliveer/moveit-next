@@ -1,11 +1,14 @@
-import { useEffect, useState } from 'react';
+import { useContext, useEffect, useState } from 'react';
 import styles from '../styles/components/Countdown.module.css';
 
 import { AiFillCheckCircle } from "react-icons/ai";
+import { ChallengesContext } from '../contexts/ChallengesContext';
 
 let countdownTimeout: NodeJS.Timeout;
 
 export function Countdown() {
+    const { startNewChallenge } = useContext(ChallengesContext);
+
     const [time, setTime] = useState(0.05 * 60);
     const [isActive, setIsActive] = useState(false);
     const [hasFinished, setHasFineshed] = useState(false);
@@ -34,6 +37,7 @@ export function Countdown() {
         } else if (isActive && time === 0) {
             setHasFineshed(true);
             setIsActive(false);
+            startNewChallenge();
         }
     }, [isActive, time])
 
