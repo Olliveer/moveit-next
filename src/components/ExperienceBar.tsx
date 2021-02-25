@@ -11,9 +11,9 @@ export function ExperienceBar() {
         <header className={styles.experienceBar}>
             <span>0 xp</span>
             <div>
-                <div style={{ width: `${percetToNextLevel}` }} />
+                <div style={{ width: `${percetToNextLevel}%` }} />
 
-                <span className={styles.currentExperience} style={{ left: `${percetToNextLevel}` }}>
+                <span className={styles.currentExperience} style={{ left: `${percetToNextLevel}%` }}>
                     {currentExperience} xp
                 </span>
             </div>
