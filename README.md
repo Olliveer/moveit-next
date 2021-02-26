@@ -1,34 +1,76 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Next%20Level%20Week-%233-00b8d3?style=for-the-badge" alt="Evento Next Level Week 4" />
+  <img src="https://img.shields.io/badge/web%3F-Yes-00b8d3?style=for-the-badge" alt="Sistema web Yes" />
+  <img src="https://img.shields.io/badge/server%3F-yes-00b8d3?style=for-the-badge" alt="Server No" />
+  <img src="https://img.shields.io/badge/app mobile%3F-yes-00b8d3?style=for-the-badge" alt="Aplicativo mobile No" />
+  <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=00b8d3&style=for-the-badge" alt="License" />
+</h2>
 
-## Getting Started
+<h1 align="center">
+  <img src="https://i.imgur.com/Q97YCwd.png" alt="Move it" width="1000px" />
+</h1>
 
-First, run the development server:
 
+## 📌 Index
+
+- [Sobre o projeto](#-sobre-o-projeto)
+- [Screenshots](#-screenshots)
+- [Techs](#-techs)
+- [Instalação e Start](#-instalação-e-start)
+- [Contribuições](#-contribuições)
+- [License](#-license)
+
+
+## ❔ Sobre o projeto
+
+ O método Pomodoro é simples e dura duas horas. Primeiro, você realiza uma atividade durante 25 minutos. Quando acabar o tempo, descansa 5 minutos. Assim sucessivamente até que complete as duas horas. Como recompensa, você descansa mais 30 minutos.
+
+O projeto está em desenvolvimento na [Next Level Week 4](https://nextlevelweek.com/inscricao/4)
+
+
+## 📸 Screenshots
+
+<h1 align="center">
+  <img src="https://i.imgur.com/qUOS2GT.png" alt="Initial Screen" width="1000px" />
+</h1>
+
+<h1 align="center">
+  <img src="https://i.imgur.com/zwVXIv6.png" alt="Completed cicle" width="1000px" />
+</h1>
+
+<h1 align="center">
+  <img src="https://i.imgur.com/rmjVfJJ.png" alt="Level Up" width="1000px" />
+</h1>
+
+## 🍃 Rotas do Backend
+
+wait 2.0 version...⌛
+
+## 🛠 Techs
+
+This project was developed using the following technologies:
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://pt-br.reactjs.org/)
+- [Next.js](https://nextjs.org/)
+
+## ⚙ Instalação e Start
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone this repository
+$ git clone https://github.com/Olliveer/moveit-next.git
+# Go into the repository
+
+# Install dependencies
+$ yarn install
+
+# Start server
+$ yarn dev
+
+# running on port 3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🤝 Contribuições
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 📜 License
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+O projeto está sobre a licença [MIT](./LICENSE) 
