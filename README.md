@@ -7,7 +7,7 @@
 </h2>
 
 <h1 align="center">
-  <img src="https://i.imgur.com/Q97YCwd.png" alt="Move it" width="1000px" />
+  <img src="https://i.imgur.com/Q97YCwd.png" alt="Move it" width="500px" />
 </h1>
 
 
@@ -31,7 +31,7 @@ O projeto está em desenvolvimento na [Next Level Week 4](https://nextlevelweek.
 ## 📸 Screenshots
 
 <h1 align="center">
-  <img src="https://i.imgur.com/qUOS2GT.png" alt="Initial Screen" width="1000px" />
+  <img src="https://i.imgur.com/ve6SwgL.png" alt="Initial Screen" width="1000px" />
 </h1>
 
 <h1 align="center">
