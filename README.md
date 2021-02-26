@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Next%20Level%20Week-%233-00b8d3?style=for-the-badge" alt="Evento Next Level Week 4" />
+  <img src="https://img.shields.io/badge/Next%20Level%20Week-%234-00b8d3?style=for-the-badge" alt="Evento Next Level Week 4" />
   <img src="https://img.shields.io/badge/web%3F-Yes-00b8d3?style=for-the-badge" alt="Sistema web Yes" />
   <img src="https://img.shields.io/badge/server%3F-yes-00b8d3?style=for-the-badge" alt="Server No" />
   <img src="https://img.shields.io/badge/app mobile%3F-yes-00b8d3?style=for-the-badge" alt="Aplicativo mobile No" />
@@ -7,7 +7,7 @@
 </h2>
 
 <h1 align="center">
-  <img src="https://i.imgur.com/Q97YCwd.png" alt="Move it" width="500px" />
+  <img src="https://i.imgur.com/Q97YCwd.png" alt="Move it" width="250px" />
 </h1>
 
 
