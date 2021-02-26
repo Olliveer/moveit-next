@@ -1,8 +1,8 @@
 <h2 align="center">
   <img src="https://img.shields.io/badge/Next%20Level%20Week-%234-00b8d3?style=for-the-badge" alt="Evento Next Level Week 4" />
   <img src="https://img.shields.io/badge/web%3F-Yes-00b8d3?style=for-the-badge" alt="Sistema web Yes" />
-  <img src="https://img.shields.io/badge/server%3F-yes-00b8d3?style=for-the-badge" alt="Server No" />
-  <img src="https://img.shields.io/badge/app mobile%3F-yes-00b8d3?style=for-the-badge" alt="Aplicativo mobile No" />
+  <img src="https://img.shields.io/badge/server%3F-no-00b8d3?style=for-the-badge" alt="Server No" />
+  <img src="https://img.shields.io/badge/app mobile%3F-NO-00b8d3?style=for-the-badge" alt="Aplicativo mobile No" />
   <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=00b8d3&style=for-the-badge" alt="License" />
 </h2>
 
